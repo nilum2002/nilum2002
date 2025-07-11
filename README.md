@@ -25,7 +25,7 @@
 ---
 
 📫 Let's Connect:
-- 🌐 LinkedIn: [visit](https://www.linkedin.com/in/nilum-mudaliarachchi-b1b499204/) 
+- 🌐 LinkedIn: [visit](www.linkedin.com/in/nilum2002) 
 - 📧 Email: nilumm.23@cse.mrt.ac.lk
 
 ---
