@@ -7,8 +7,8 @@
 
 💻 I'm a passionate **Developer** with interests in:
 
+- 🤖 Robotics and Internet of Things (IoT) 
 - 🧠 Artificial Intelligence & Machine Learning
-- 🤖 Internet of Things (IoT) and Robotics 
 - 🧩 Algorithms & Problem Solving
 - 🛠️ Software Engineering
 - ⚙️ Backend Systems & APIs
