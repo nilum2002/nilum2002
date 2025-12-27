@@ -12,7 +12,7 @@
 - 🧩 Algorithms & Problem Solving
 - 🛠️ Software Engineering
 - ⚙️ Backend Systems & APIs
-- 🖋️ Founder of **GenXis Labs**
+- 🖋️ Founder of [**GenXis Labs**](https://genxis.lk/)
 - 🖋️ Founder of **Botzilla** 
 
 ---
