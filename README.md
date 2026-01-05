@@ -27,9 +27,10 @@
 ---
 
 📫 Let's Connect:
-- 🌐 Web: [visit](https://bit.ly/4jkvvCd)
-- 🌐 LinkedIn: [visit](https://www.linkedin.com/in/nilum2002/) 
-- 📧 Email: nilumm.23@cse.mrt.ac.lk
+- <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="20" height="20" alt="Website"> Web: [visit](https://bit.ly/4jkvvCd)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" alt="LinkedIn"> LinkedIn: [visit](https://www.linkedin.com/in/nilum2002/) 
+- <img src="https://cdn-icons-png.flaticon.com/512/2099/2099199.png" width="20" height="20" alt="Email"> Email: nilumm.23@cse.mrt.ac.lk
+
 
 ---
 
